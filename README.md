@@ -1,11 +1,12 @@
-# 此仓库用于保存Orange Pi开发板的Rocky Linux镜像
+# This repository is used to store the Rocky Linux image of the Orange Pi development board
 
-## 下载Rocky Linux镜像
+##Download the Rocky Linux image
 
-开发板 | 镜像类型 | 下载 |
+Development board | Image type | Download |
 |:--|:--|:--|
-| opi5plus | 服务器 | [下载链接](https://github.com/leeboby/rocky-linux-images/releases/download/20230611/opi5plus-rocky-9.2-aarch64-cli-20230611.img.xz)|
+| opi5plus | server | [Download link](https://github.com/leeboby/rocky-linux-images/releases/download/20230611/opi5plus-rocky-9.2-aarch64-cli-20230611.img.xz)|
 
-## 登录账号和密码
+## Login account and password
 
-登录账号和密码都是: orangepi
+
+The login account and password are both: orangepi
